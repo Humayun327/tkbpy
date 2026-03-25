@@ -5,6 +5,9 @@
 
 ---
 
+PypI link:
+https://pypi.org/project/tkbpy/
+
 ## 🚀 Quick Start
 
 ### Installation
