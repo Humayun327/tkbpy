@@ -1,4 +1,4 @@
-# 🌟 tkbpy Framework
+# 🌟 Tkbpy Framework
 **The High-Speed Web Orchestrator for Modern Developers.**
 
 `tkbpy` is a lightweight CLI tool designed to jumpstart web projects. It handles the boring stuff—virtual environments, folder structures, and UI framework integration—so you can focus on writing code.
