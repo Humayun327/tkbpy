@@ -1,0 +1,2 @@
+[console_scripts]
+tkbpy = tkbpy.cli:handle_args_from_terminal
